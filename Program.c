@@ -2,7 +2,7 @@
 
 int main()
 {
-    char name[20],country[20],skill;
+    char name,country,skill;
     int age;
     
     printf("Welcome to Hacktoberfest 2020\n");
