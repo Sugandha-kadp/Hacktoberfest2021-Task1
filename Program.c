@@ -22,4 +22,5 @@ int main()
     printf("Thank you %s Happy Hacking",name);//Thank the user
 
     return 0;
+    
 }
